@@ -17,7 +17,6 @@ module.exports = class extends Generator {
     writing() {
         const fileArr = [
             'browserslist',
-            '.gitignore',
             '.editorconfig',
             'angular.json',
             'karma.conf.js',
