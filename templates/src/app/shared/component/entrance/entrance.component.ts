@@ -47,6 +47,6 @@ export class EntranceComponent implements OnInit {
   }
 
   loginLog() {
-    this.router.navigate(['world']);
+    this.router.navigate(['welcome']);
   }
 }
